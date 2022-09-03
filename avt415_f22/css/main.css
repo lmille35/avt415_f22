@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #AABDBA;
+  color: #181354;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+}
+li {
+  font-size: 1em;
+font-family: atrament;
+	color: aliceblue
+}
+h1 {
+	font-family: bebas neue;
+	font-size: 4em;
+	color: beige;
+}
+h2 {font-size: 2.5em;
+	font-family: bebas neue;
+	color: beige;
+}
+h3 {
+	font-family: atrament;
+	color: grey;
+}
+h4 {font-size: 1.5em;
+margin-top: 0;
+	font-family: bebas neue;
+	color: grey
+
+}
+
+dt {
+	font-size: 2em;
+	font-weight: bold;
+}
